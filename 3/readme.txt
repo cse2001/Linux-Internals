@@ -1,0 +1,1 @@
+run.txt => Run this script with sudo access to run all the test cases cleanly
